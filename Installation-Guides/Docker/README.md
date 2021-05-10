@@ -1,5 +1,5 @@
 # `Docker` Installation Guide
-
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
 
 ### Step1:
 Open `Terminal` and type this cmd:
