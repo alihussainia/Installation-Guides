@@ -1,4 +1,5 @@
-`Maven` Installation Guide
+# `Maven` Installation Guide
+
 `Maven` is a build automation tool used primarily for Java projects. To install `Maven` in ubuntu linux follow this guide.
 
 ### Pre-requisite:
